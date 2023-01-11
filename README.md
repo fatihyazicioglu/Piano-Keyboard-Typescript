@@ -1,1 +1,1 @@
-# React-Typescript-Piano-Keyboard
+12 Notes (1 octave) Piano Keyboard built with TypeScript
