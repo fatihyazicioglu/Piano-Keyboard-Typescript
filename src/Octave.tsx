@@ -11,7 +11,7 @@ const Wrapper = styled.div`
 `;
 
 type Props = {
-  note: NoteType[];
+  notes: NoteType[];
   clickHandler: (e: React.MouseEvent<HTMLButtonElement>) => void;
 };
 

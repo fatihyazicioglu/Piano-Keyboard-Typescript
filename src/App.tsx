@@ -8,8 +8,9 @@ function App() {
     audio.play();
   };
   return (
-    <div>
+    <div >
       <Octave notes={notes} clickHandler={handleClick} />
+      
     </div>
   );
 }
