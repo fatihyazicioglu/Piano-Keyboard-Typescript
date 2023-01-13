@@ -1,4 +1,4 @@
-<ins> [OPEN LIVE](piano-typescript-keyboard.web.app/) </ins>
+<ins> [OPEN LIVE](piano-typescript-keyboard.web.app) </ins>
 
 ### 12 Notes (1 octave) Piano Keyboard built with TypeScript <br>
 
